@@ -49,4 +49,4 @@ Remember to compile and deploy the contract before executing any program instruc
 ## Authors
 
 Siddharth Bhardwaj
-@Siddamnn
+[Siddharth Bhardwaj](https://www.linkedin.com/in/siddharth-bhardwaj-tug/)
